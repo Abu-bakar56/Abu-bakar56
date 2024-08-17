@@ -19,6 +19,9 @@ A Java-based GUI application for managing bank accounts, transactions, and loans
 ### [Project 2: Cargo Website Project](https://github.com/Abu-bakar56/Cargo-Website-Project) 
 It’s a responsive website built using HTML and CSS, designed to showcase the services of a cargo company.
 
+### [Project 3: Data Analysis](https://github.com/Abu-bakar56/Data-Analysis) 
+This repository showcases a variety of data analysis projects utilizing Excel, Power BI, and Tableau. Whether you're exploring data, generating insights, or creating interactive dashboards, this collection provides valuable resources and examples.
+
 ## 🌱 What I'm Learning
 
 I'm currently diving deeper into **Deep Learning** and exploring **Generative AI** models. I'm also working on enhancing my skills in **Web Development**.
@@ -26,8 +29,8 @@ I'm currently diving deeper into **Deep Learning** and exploring **Generative AI
 ## 📫 Let's Connect
 
 - **LinkedIn:** (www.linkedin.com/in/abubakar-shahzad-24a84a315)
-- **Twitter:** [Your Twitter](#)
-- **Portfolio:** [Your Website](#)
+- **Twitter:** (#)
+- **Portfolio:** (#)
 
 Feel free to reach out if you'd like to collaborate on a project, or just chat about data science and technology!
 
