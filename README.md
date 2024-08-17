@@ -13,8 +13,11 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong 
 
 ## 🚀 Projects
 
-### [Project 3: Bank Management System](https://github.com/Abu-bakar56/Bank-Management-System)
+### [Project 1: Bank Management System](https://github.com/Abu-bakar56/Bank-Management-System)
 A Java-based GUI application for managing bank accounts, transactions, and loans, with a MySQL database backend.
+
+### [Project 2: Cargo Website Project](https://github.com/Abu-bakar56/Cargo-Website-Project) 
+It’s a responsive website built using HTML and CSS, designed to showcase the services of a cargo company.
 
 ## 🌱 What I'm Learning
 
