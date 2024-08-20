@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong 
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** Python, JavaScript, SQL, Java
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
 - **Web Development:** HTML, CSS, JavaScript, Flask
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
