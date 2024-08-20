@@ -27,10 +27,10 @@ This repository showcases a variety of data analysis projects utilizing Excel, P
 I'm currently diving deeper into **Deep Learning** and exploring **Generative AI** models. I'm also working on enhancing my skills in **Web Development**.
 
 ## 📫 Let's Connect
-
-- **LinkedIn:** (www.linkedin.com/in/abubakar-shahzad-24a84a315)
-- **Twitter:** (#)
-- **Portfolio:** (#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abubakar-shahzad-24a84a315)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](abubakarshahzad0321@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on a project, or just chat about data science and technology!
 
