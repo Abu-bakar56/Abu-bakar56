@@ -13,14 +13,14 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong 
 
 ## 🚀 Projects
 
-### [Project 1: Bank Management System](https://github.com/Abu-bakar56/Bank-Management-System)
-A Java-based GUI application for managing bank accounts, transactions, and loans, with a MySQL database backend.
+### [Project 1: Customer Churn Predictor](https://github.com/Abu-bakar56/Customer-Churn-Predictor)
+A Flask-based web application for predicting customer churn in a telecom company. This project uses machine learning models to determine whether a customer is likely to churn based on various features.
 
-### [Project 2: Cargo Website Project](https://github.com/Abu-bakar56/Cargo-Website-Project) 
-It’s a responsive website built using HTML and CSS, designed to showcase the services of a cargo company.
-
-### [Project 3: Data Analysis](https://github.com/Abu-bakar56/Data-Analysis) 
+### [Project 2: Data Analysis](https://github.com/Abu-bakar56/Data-Analysis) 
 This repository showcases a variety of data analysis projects utilizing Excel, Power BI, and Tableau. Whether you're exploring data, generating insights, or creating interactive dashboards, this collection provides valuable resources and examples.
+
+### [Project 3: Bank Management System](https://github.com/Abu-bakar56/Bank-Management-System)
+A Java-based GUI application for managing bank accounts, transactions, and loans, with a MySQL database backend.
 
 ## 🌱 What I'm Learning
 
