@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong background in **Web Development**, **Machine Learning**, and **Deep Learning**. I love transforming data into actionable insights and building intelligent systems that solve real-world problems.
 
+Sure, here's your updated list with MLOps included:
+
 ## 🔧 Technologies & Tools
 
 - **Programming Languages:** Python, JavaScript, SQL, Java
@@ -9,6 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong 
 - **Web Development:** HTML, CSS, JavaScript, Flask
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub
+- **MLOps:** Docker, Kubernetes, MLflow, CI/CD
 - **Other Tools:** Jupyter Notebooks, VS Code
 
 ## 🚀 Projects
@@ -16,11 +19,14 @@ Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong 
 ### [Project 1: Customer Churn Predictor](https://github.com/Abu-bakar56/Customer-Churn-Predictor)
 A Flask-based web application for predicting customer churn in a telecom company. This project uses machine learning models to determine whether a customer is likely to churn based on various features.
 
-### [Project 2: Data Analysis](https://github.com/Abu-bakar56/Data-Analysis) 
+### [Project 2: loan-Approval-System](https://github.com/Abu-bakar56/loan-Approval-System)
+This project involves building a machine learning model that predicts loan approval based on applicant details such as income, education level, credit history, and other factors.
+
+
+### [Project 3: Data Analysis](https://github.com/Abu-bakar56/Data-Analysis) 
 This repository showcases a variety of data analysis projects utilizing Excel, Power BI, and Tableau. Whether you're exploring data, generating insights, or creating interactive dashboards, this collection provides valuable resources and examples.
 
-### [Project 3: Bank Management System](https://github.com/Abu-bakar56/Bank-Management-System)
-A Java-based GUI application for managing bank accounts, transactions, and loans, with a MySQL database backend.
+
 
 ## 🌱 What I'm Learning
 
