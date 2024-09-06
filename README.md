@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong background in **Web Development**, **Machine Learning**, and **Deep Learning**. I love transforming data into actionable insights and building intelligent systems that solve real-world problems.
 
-Sure, here's your updated list with MLOps included:
+
 
 ## 🔧 Technologies & Tools
 
