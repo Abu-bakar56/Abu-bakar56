@@ -23,8 +23,8 @@ A Flask-based web application for predicting customer churn in a telecom company
 This project involves building a machine learning model that predicts loan approval based on applicant details such as income, education level, credit history, and other factors.
 
 
-### [Project 3: Data Analysis](https://github.com/Abu-bakar56/Data-Analysis) 
-This repository showcases a variety of data analysis projects utilizing Excel, Power BI, and Tableau. Whether you're exploring data, generating insights, or creating interactive dashboards, this collection provides valuable resources and examples.
+### [Project 3: Gemstone-Price-Prediction-With-Mlops-Pipeline](https://github.com/Abu-bakar56/Gemstone-Price-Prediction-With-Mlops-Pipeline) 
+This project focuses on predicting gemstone prices using a Machine Learning (ML) pipeline, integrated with MLOps practices to ensure smooth deployment and scaling. The model is deployed on Render and can predict the price of gemstones based on various features such as carat, cut, color, clarity, and more.
 
 
 
