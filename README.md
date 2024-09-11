@@ -34,7 +34,7 @@ I'm currently diving deeper into **Deep Learning** and exploring **Generative AI
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/abubakar-shahzad-24a84a315)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](#)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/abubakar.mirza.9237)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://abu-bakar56.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](abubakarshahzad730@gmail.com)
 
