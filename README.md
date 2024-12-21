@@ -35,6 +35,9 @@ This project involves building a machine learning model that predicts loan appro
 ### [Project 6: Gemstone-Price-Prediction-With-Mlops-Pipeline](https://github.com/Abu-bakar56/Gemstone-Price-Prediction-With-Mlops-Pipeline) 
 This project focuses on predicting gemstone prices using a Machine Learning (ML) pipeline, integrated with MLOps practices to ensure smooth deployment and scaling. The model is deployed on Render and can predict the price of gemstones based on various features such as carat, cut, color, clarity, and more.
 
+### [Project 7: Stock-Price-Prediction-And-Forecasting-Using-Stacked-LSTM](https://github.com/Abu-bakar56/Stock-Price-Prediction-And-Forecasting-Using-Stacked-LSTM) 
+This project predicts and forecasts stock closing prices for 30 future days using a Stacked LSTM model. It processes time-series data, captures temporal dependencies, and visualizes historical vs. predicted trends for financial insights.
+
 
 
 ## 🌱 What I'm Learning
