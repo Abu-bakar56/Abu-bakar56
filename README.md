@@ -1,18 +1,18 @@
-# 👋 Hello, I'm AbuBakar Shahzad
+# 👋 Hello, I'm AbuBakar Shahzad  
 
-Welcome to my GitHub profile! I'm a passionate **Data Scientist** with a strong background in **Web Development**, **Machine Learning**, and **Deep Learning**. I love transforming data into actionable insights and building intelligent systems that solve real-world problems.
+Welcome to my GitHub profile! I'm a passionate **AI Engineer** and **Data Scientist** with a strong background in **Machine Learning**, **Deep Learning**, and **Generative AI**. I love transforming data into actionable insights and building intelligent systems that solve real-world problems.  
 
+## 🔧 Technologies & Tools  
 
+- **Programming Languages:** Python, JavaScript, SQL, Java  
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Pytorch 
+- **Deep Learning & Generative AI:** CNNs, RNNs, Transformers, GANs, LLMs, Stable Diffusion, OpenAI API  
+- **Web Development:** HTML, CSS, JavaScript, Flask, PHP 
+- **Databases:** MySQL, MongoDB
+- **Version Control:** Git, GitHub  
+- **MLOps:** Docker, Airflow, MLflow, CI/CD  
+- **Other Tools:** Jupyter Notebooks, VS Code  
 
-## 🔧 Technologies & Tools
-
-- **Programming Languages:** Python, JavaScript, SQL, Java
-- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras
-- **Web Development:** HTML, CSS, JavaScript, Flask
-- **Databases:** MySQL
-- **Version Control:** Git, GitHub
-- **MLOps:** Docker, Kubernetes, MLflow, CI/CD
-- **Other Tools:** Jupyter Notebooks, VS Code
 
 ## 🚀 Projects
 
