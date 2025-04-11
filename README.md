@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer** and **Data Scient
 
 - **Programming Languages:** Python, JavaScript, SQL, Java  
 - **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Pytorch 
-- **Deep Learning & Generative AI:** CNNs, RNNs, Transformers, GANs, LLMs, Stable Diffusion, OpenAI API , RAG, langChain, HuggingFace
+- **Deep Learning & Generative AI:** CNNs, RNNs, Transformers, GANs, LLMs, Stable Diffusion, OpenAI API , RAG, langChain, HuggingFace, Crew Ai
 - **Web Development:** HTML, CSS, JavaScript, Flask, PHP 
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub  
