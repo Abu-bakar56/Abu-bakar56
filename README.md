@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer** and **Data Scient
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub  
 - **MLOps:** Docker, Airflow, MLflow, CI/CD  
-- **Other Tools:** Jupyter Notebooks, VS Code  
+- **Other Tools:** Jupyter Notebooks, VS Code , AWS  
 
 
 ## 🚀 Projects
