@@ -47,7 +47,7 @@ This project focuses on predicting gemstone prices using a Machine Learning (ML)
 ### [Project 10: Stock-Price-Prediction-And-Forecasting-Using-Stacked-LSTM](https://github.com/Abu-bakar56/Stock-Price-Prediction-And-Forecasting-Using-Stacked-LSTM) 
 This project predicts and forecasts stock closing prices for 30 future days using a Stacked LSTM model. It processes time-series data, captures temporal dependencies, and visualizes historical vs. predicted trends for financial insights.
 
-### [Project 12: Extract-data-Bank-Statement-Fastapi](https://github.com/Abu-bakar56/Bank-Statement-Fast-api) 
+### [Project 11: Extract-data-Bank-Statement-Fastapi](https://github.com/Abu-bakar56/Bank-Statement-Fast-api) 
 AI-powered Bank Statement Analyzer built with FastAPI and LangChain, developed during my internship at NetSol. Extracts financial data from PDFs and generates structured insights on income, expenses, and savings.
 
 
