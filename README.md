@@ -50,6 +50,9 @@ This project predicts and forecasts stock closing prices for 30 future days usin
 ### [Project 11: Extract-data-Bank-Statement-Fastapi](https://github.com/Abu-bakar56/Bank-Statement-Fast-api) 
 AI-powered Bank Statement Analyzer built with FastAPI and LangChain, developed during my internship at NetSol. Extracts financial data from PDFs and generates structured insights on income, expenses, and savings.
 
+### [Project 12: CrewAI-Financial-Analysis-Pipeline](https://github.com/Abu-bakar56/CrewAI-Financial-Analysis-Pipeline) 
+A multi-agent financial analysis pipeline built with the crewai framework during my internship at Netsol. The system coordinates specialized agents for KPI insights, financial audits (P&L, cash flow, balance sheet), and diagnostic synthesis, with support for flow-based visualization.
+
 
 ## 🌱 What I'm Learning
 
