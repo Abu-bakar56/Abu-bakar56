@@ -61,6 +61,9 @@ MongoDB stores user accounts, company documents, and chat history.
 Integrated Langfuse provides logging, tracing, and observability.
 Deployed on Render with CI/CD for a production-ready setup.
 
+### [Project 14: Financial Ratios Pipeline](https://github.com/Abu-bakar56/Financial-Ratios-Pipeline) 
+A Python-based pipeline that extracts structured financial data from annual reports, calculates ratios, and generates investment insights using LLMs (LangChain + GPT-4). Built during my AI/DS Internship at NetSol Technologies. 🔒 Code not public (internship restriction).
+
 ## 🌱 What I'm Learning
 
 I'm currently diving deeper into **Deep Learning** and exploring **Generative AI** models. I'm also working on enhancing my skills in **Web Development**.
