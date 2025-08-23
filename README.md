@@ -53,6 +53,13 @@ AI-powered Bank Statement Analyzer built with FastAPI and LangChain, developed d
 ### [Project 12: CrewAI-Financial-Analysis-Pipeline](https://github.com/Abu-bakar56/CrewAI-Financial-Analysis-Pipeline) 
 A multi-agent financial analysis pipeline built with the crewai framework during my internship at Netsol. The system coordinates specialized agents for KPI insights, financial audits (P&L, cash flow, balance sheet), and diagnostic synthesis, with support for flow-based visualization.
 
+### [Project 13: Full-Stack RAG Chatbot](https://github.com/Abu-bakar56/FullStack-RAG-Chatbot) 
+This project is a Full-Stack Retrieval-Augmented Generation (RAG) Chatbot built during my internship at NetSol.
+It combines FastAPI backend and Streamlit frontend with a ChatGPT-like interface supporting streaming responses, threaded chat history, and a Start New Chat option.
+The system uses LangChain and LangGraph for document retrieval and reasoning, along with web search integration for extended answers.
+MongoDB stores user accounts, company documents, and chat history.
+Integrated Langfuse provides logging, tracing, and observability.
+Deployed on Render with CI/CD for a production-ready setup.
 
 ## 🌱 What I'm Learning
 
