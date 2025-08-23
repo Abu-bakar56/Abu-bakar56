@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer** with a strong bac
 
 ## 🚀 Projects
 
-### [Project 1: Full-Stack RAG Chatbot *(NetSol Internship)*](https://github.com/Abu-bakar56/FullStack-RAG-Chatbot) 
+### [Project 1: Full-Stack RAG Chatbot](https://github.com/Abu-bakar56/FullStack-RAG-Chatbot) 
 - FastAPI backend + Streamlit frontend (ChatGPT-like UI)  
 - **Streaming responses** + **threaded chat history** with "New Chat" option  
 - Document retrieval & reasoning using **LangChain + LangGraph**  
