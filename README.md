@@ -98,6 +98,6 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer** with a strong bac
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://abubakar56.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](abubakarshahzad730@gmail.com)
 
-Feel free to reach out if you'd like to collaborate on a project, or just chat about data science and technology!
+Feel free to reach out if you'd like to collaborate on a project, or just chat about Ai AI Engineering and technology!
 
 
