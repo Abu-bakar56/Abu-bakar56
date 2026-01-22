@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate **AI Engineer** with a strong bac
 ## 🔧 Technologies & Tools  
 
 - **AI & Data Science**: Python, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy  
-- **LLMs & Generative AI**: OpenAI API, Hugging Face, LangChain, LangGraph, CrewAI, RAG, Vector Databases (FAISS, Pinecone)  
+- **LLMs & Generative AI**: OpenAI API, Hugging Face, LangChain, LangGraph, Model Context Protocol (MCP), CrewAI, RAG, Vector Databases (FAISS, Pinecone)  
 - **AI Observability & Tracing**: Langfuse, LangSmith  
 - **MLOps & Deployment**: Docker, MLflow, CI/CD, AWS (EC2, S3, Lambda), GCP  
 - **APIs & Backend**: FastAPI, Flask, Streamlit, Gradio  
